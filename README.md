@@ -1,3 +1,4 @@
 # zsh-sage
 
-<div style="width: 100%; height: 50px; border: 1px solid blue;">
+<div style="width: 100px; height: 50px; border: 1px solid blue; background-color: blue;">
+</div>
